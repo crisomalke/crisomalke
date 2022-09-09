@@ -1,1 +1,3 @@
-## 👋 Hello, I'm Criso
+## Imagine a developer...
+... who is expert in over 4 languages.
+
