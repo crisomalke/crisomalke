@@ -3,7 +3,7 @@
 
 🏆 Achivements
 
-**Founder at [DscoApp](https://github.com/DscoApp)
+**Founder at [DscoApp](https://github.com/DscoApp)**
 
 ## 🚀 Join my Discord Server!
 <a href="https://discord.gg/7nxQdKJBbV"><img src="https://invidget.switchblade.xyz/7nxQdKJBbV" /></a>
