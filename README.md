@@ -1,7 +1,7 @@
 # Imagine a developer...
 ... who is expert in over 4 languages. I'm a developer from India.
 
-🏆 Achivements
+## 🏆 Achivements
 
 **Founder at [DscoApp](https://github.com/DscoApp)**
 
